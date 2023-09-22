@@ -1,0 +1,6 @@
+# python
+.venv
+coding/__pychache__
+.vscode
+*.pyc
+debug.log

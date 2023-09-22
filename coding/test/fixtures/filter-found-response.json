@@ -1,0 +1,11 @@
+{
+    "digital-1": {
+        "valid": true
+    },
+    "digital-2": {
+        "valid": true
+    },
+    "digital-3": {
+        "valid": false
+    }
+}

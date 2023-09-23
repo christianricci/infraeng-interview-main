@@ -4,6 +4,7 @@ variable "project_id" {
 
 variable "instances" {
   type = map(object({
+    instance_name = string
     machine_type = string
 	zone  = string
 	description = string
